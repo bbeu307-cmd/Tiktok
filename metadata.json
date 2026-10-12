@@ -1,0 +1,8 @@
+{
+  "name": "TikTok Live Racing Arena",
+  "description": "Plataforma de jogo de corrida 3D interativo integrado ao TikTok LIVE com carros, motos, sala de espera automática, presentes e narração em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
